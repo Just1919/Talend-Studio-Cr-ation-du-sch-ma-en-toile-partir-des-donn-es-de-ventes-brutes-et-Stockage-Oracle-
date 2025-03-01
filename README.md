@@ -1,0 +1,1 @@
+# Talend-Studio-Cr-ation-du-sch-ma-en-toile-partir-des-donn-es-de-ventes-brutes-et-Stockage-Oracle-
